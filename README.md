@@ -14,3 +14,11 @@ Work in Progress (Week 1)
 - Power BI
 - Excel / CSV
 - GitHub
+## Weekly Progress
+
+### Week 1
+- Collected and uploaded HR datasets
+- Performed initial data understanding and cleaning
+- Created data model in Power BI
+- Built first dashboard page with core HR KPIs
+- Added initial Power BI report and screenshots
