@@ -22,3 +22,6 @@ Work in Progress (Week 1)
 - Created data model in Power BI
 - Built first dashboard page with core HR KPIs
 - Added initial Power BI report and screenshots
+
+- Week 2: Progress update – Overview dashboard completed
+
