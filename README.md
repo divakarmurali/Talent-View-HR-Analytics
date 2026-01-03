@@ -23,6 +23,11 @@ Work in Progress (Week 1)
 - Built first dashboard page with core HR KPIs
 - Added initial Power BI report and screenshots
 
-### Week 2
-- Progress update – Overview dashboard completed
+## Week 2 Progress
+
+- Completed Overview dashboard page with finalized KPIs
+- Added Attrition and Retention metrics
+- Improved visual layout and user-friendly slicers
+- Uploaded updated Power BI report and dashboard screenshots
+
 
