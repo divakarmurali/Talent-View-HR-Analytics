@@ -31,3 +31,14 @@ Work in Progress (Week 1)
 - Uploaded updated Power BI report and dashboard screenshots
 
 
+### Week 3 – Attrition Analysis (Completed)
+
+- Built Attrition Analysis dashboard (Page 2)
+- Attrition Rate & Retention Rate calculations
+- Voluntary vs Involuntary attrition analysis
+- Attrition by Department, Job Role, Gender
+- Top attrition reasons (Top 3) with dynamic cards
+- Attrition vs Avg Tenure analysis
+- Conditional formatting & interactive slicers
+
+
