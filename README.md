@@ -41,4 +41,14 @@ Work in Progress (Week 1)
 - Attrition vs Avg Tenure analysis
 - Conditional formatting & interactive slicers
 
+### Week 4 – Hiring Analysis (Completed)
+
+- Built Hiring Analysis dashboard (Page 3)
+- New Hires KPI
+- Hiring funnel: Applied → Screened → Interviewed → Hired
+- Time-to-Hire analysis by Department
+- Hiring distribution by Job Role
+- Final Power BI report structure completed
+
+
 
