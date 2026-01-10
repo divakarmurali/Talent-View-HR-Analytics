@@ -1,5 +1,7 @@
 # Talent View – HR Analytics
 
+Project Link (PowerBi service) :https://app.powerbi.com/groups/me/reports/61e0f2b7-a415-4cb8-8fac-968748e5e5a8/43e9c410bd7e00a3ad54?experience=power-bi&clientSideAuth=0
+
 ## Project Overview
 This project analyzes HR data from the Talent View dataset to understand employee demographics, performance, attrition, and workforce trends using Power BI.
 
