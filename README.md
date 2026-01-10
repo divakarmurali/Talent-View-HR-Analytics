@@ -87,7 +87,6 @@ This project is an **internship-level simulation**, so RLS is implemented concep
 
 
 ### Example RLS Filter (Illustrative)
-```DAX
 [Department] = "Product_manager"
 
 
@@ -101,8 +100,6 @@ This project is an **internship-level simulation**, so RLS is implemented concep
   - Data warehouse with on-premises gateway
 
 Manual refresh was used during development.
-
-
 
 
 
