@@ -91,5 +91,19 @@ This project is an **internship-level simulation**, so RLS is implemented concep
 [Department] = "Product_manager"
 
 
+##  Data Refresh
+
+- The dataset is sourced from local CSV files.
+- Scheduled refresh is disabled in Power BI Service because local file paths are not accessible in the cloud.
+- For production use, the data source can be migrated to:
+  - OneDrive / SharePoint
+  - Azure SQL Database
+  - Data warehouse with on-premises gateway
+
+Manual refresh was used during development.
+
+
+
+
 
 
