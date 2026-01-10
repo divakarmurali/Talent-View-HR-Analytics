@@ -112,6 +112,52 @@ Due to absence of organizational email IDs, App creation was documented conceptu
 
 Manual refresh was used during development.
 
+**## Final Project Summary – Talent View HR Analytics**
+
+This project analyzes HR data using Power BI to understand workforce trends, attrition patterns, and hiring effectiveness.
+
+### Pages Overview
+
+**Page 1 – Workforce Overview**
+- Headcount, gender distribution, tenure analysis
+- Department & job role breakdown
+- Core HR KPIs
+
+**Page 2 – Attrition Analysis**
+- Attrition rate by department, job role, gender
+- Voluntary vs involuntary attrition
+- Top attrition reasons (Top 3)
+- Avg tenure & survey rating for attrited employees
+
+**Page 3 – Hiring Analysis**
+- Hiring volume analysis
+- Hiring by job role and department
+- Time-based hiring insights
+
+###  Security & Governance
+- Row-Level Security (RLS) implemented (demo roles)
+- HRBP: Department-level access
+- HR Director: Full access
+
+###  Data Refresh
+- Manual refresh used (local CSV files)
+- Refresh limitations documented
+- Production refresh strategy explained
+
+###  Deliverables
+- Power BI report (.pbix)
+- Project documentation (.docx)
+- Data model & cleaned datasets
+
+###  Tools Used
+- Power BI Desktop & Service
+- DAX
+- Excel / CSV
+- GitHub
+
+> This project demonstrates end-to-end HR analytics development following real-world Power BI best practices.
+
+
 
 
 
