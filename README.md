@@ -98,6 +98,17 @@ This project is an **internship-level simulation**, so RLS is implemented concep
   - OneDrive / SharePoint
   - Azure SQL Database
   - Data warehouse with on-premises gateway
+ 
+  - ##  App Sharing (Conceptual)
+
+- In a production setup, this report would be published as a Power BI App
+- App name: TalentView – HR Analytics
+- Target audience:
+  - HR Business Partners
+  - Department Managers
+  - HR Leadership
+
+Due to absence of organizational email IDs, App creation was documented conceptually.
 
 Manual refresh was used during development.
 
