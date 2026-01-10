@@ -50,5 +50,46 @@ Work in Progress (Week 1)
 - Hiring distribution by Job Role
 - Final Power BI report structure completed
 
+- ---
+
+##  Row-Level Security (RLS)
+
+### Objective
+To demonstrate an understanding of Row-Level Security (RLS) concepts in Power BI for HR analytics use cases.
+
+---
+
+### What is RLS?
+Row-Level Security (RLS) restricts data access so users only see rows they are authorized to view.
+
+In HR dashboards, RLS is commonly used to:
+- Protect sensitive employee data
+- Limit department-level visibility
+- Ensure role-based access
+
+---
+
+### RLS Approach in This Project
+This project is an **internship-level simulation**, so RLS is implemented conceptually based on available dataset fields.
+
+| Role | Access Scope |
+| Manager | Assigned department data |
+| HR Business Partner (HRBP) | Department-level HR data |
+| HR Director | Full organization data |
+
+
+### Implementation Logic (Conceptual)
+- RLS roles are created in **Power BI Desktop**
+- Filters are applied using **Department / Job Level fields**
+- Roles are tested using **“View as Role”**
+- Final user-role assignment is done after publishing
+
+
+
+### Example RLS Filter (Illustrative)
+```DAX
+[Department] = "Product_manager"
+
+
 
 
