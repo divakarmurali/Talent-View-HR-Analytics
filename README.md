@@ -157,6 +157,12 @@ This project analyzes HR data using Power BI to understand workforce trends, att
 
 > This project demonstrates end-to-end HR analytics development following real-world Power BI best practices.
 
+Project Status
+
+Completed
+
+Author: Divakar Murali
+
 
 
 
